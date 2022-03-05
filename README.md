@@ -3,7 +3,7 @@
 # Horiseon Challenge Assignment
 
 ## Project Description
-Horiseon page features a large hero banner followed by three main sections and a sidebar.  The page is bookended with a navigational header and a footer.  Semantic HTML and image alt attributes employed to increase Search Engine Optimization.
+Horiseon landing page for a search engine optimization service. The site is frameworked around a navigational header and footer and a large jumbotron banner. The content itself comprises of three main sections that detail the services functionality, as well as a sidebar that outlines some benefits the service provides your business.
 
 ## Contents
 1. [Deployed Page](#deployed-page)
@@ -21,3 +21,4 @@ Horiseon page features a large hero banner followed by three main sections and a
 * Uniformed background colors so sections match the aside.
 *AS NOTED in style.css comments, website is not compatible in other formats such 
 as mobile and tablet. Text becomes squashed and unformatted in re-sizing.
+*Further comments and indicators noted in code, as relevant.
