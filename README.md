@@ -11,15 +11,11 @@ Horiseon landing page for a search engine optimization service. The site is fram
 2. [Refactor Comments]
 
 ## Refactor Comments
-* Added comments to index.html and style.css to facilitate refactoring.
-* Refactored select div elements to semantic HTML elements to improve SEO.
-* Re-identified style selectors accordingly.
-* Consolidated repetitive styles.
-* Removed unnecessary class attributes.
-* Added web page title.
-* Fixed broken navigational link.
+* Refactored select div elements to semantic HTML elements to improve SEO ('div soup cleanup').
+* Comments added to index.html and style.css to facilitate refactoring.
+* Streamlined and amalgamated repetitive styles, and modified style selectors accordingly..
+* Removed surplus class attributes.
+* Fixed broken navigational link and added web page title.
 * Added alt attributes to images to improve SEO.
 * Uniformed background colors so sections match the aside.
-* AS NOTED in style.css comments, website is not compatible in other formats such 
-as mobile and tablet. Text becomes squashed and unformatted in re-sizing.
 * FURTHER comments and indicators noted in code, as relevant.
