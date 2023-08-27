@@ -17,7 +17,7 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 46px;
 }
 /* Contrast between 'SEO' in 'Horiseon' was very slight. Changed to an (quite radical) alternative color,
  just to exemplify how we could increase accessability */
